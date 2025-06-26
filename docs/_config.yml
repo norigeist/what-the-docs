@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: The Seal
+description: Seal chillin' in d wa'er.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://github.com/norigeist/what-the-docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Repository: https://github.com/norigeist/what-the-docs
