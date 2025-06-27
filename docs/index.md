@@ -9,4 +9,6 @@ layout: home
 Prompt: write a cute introduction incomprehensible as possible in seal language
 ```
 
-Arf arf! 🦭 Flippers flapping wildly "Blub blub, splashy splash! Wiggly wiggle, flipper flip! Arf arf, blub blub!" _Rolls around playfully_
+Fiiish **LLEEEEGGGGG**
+
+Arf arf! 🦭 _Flippers flapping wildly_ "Blub blub, splashy splash! Wiggly wiggle, flipper flip! Arf arf, blub blub!" _Rolls around playfully_
