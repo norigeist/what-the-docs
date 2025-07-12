@@ -1,14 +1,14 @@
 version: 2
 updates:
   - package-ecosystem: bundler
-    directory: /
+    directory: /docs
     schedule:
-      interval: daily
+      interval: weekly
     allow:
       - dependency-type: direct
-  - package-ecosystem: "github-actions"
-    directory: "/"
+  - package-ecosystem: github-actions
+    directory: /
     schedule:
-      interval: daily
-      time: "10:00"
+      interval: weekly
+      time: "18:00"
     open-pull-requests-limit: 10
